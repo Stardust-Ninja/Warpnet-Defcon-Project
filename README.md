@@ -5,7 +5,7 @@ Een hardware-based security monitoring systeem dat Windows beveiligingsstatus vi
 ## 📋 Overzicht
 
 Dit project bestaat uit twee componenten:
-- **Windows API** (`security_monitor.py`) - Scant je systeem op beveiligingsrisico's
+- **Windows API** (`api_server_V2`) - Scant je systeem op beveiligingsrisico's
 - **Pico Firmware** (`code.py`) - Visualiseert bedreigingsniveaus via gekleurde LEDs
 
 ## 🛠️ Hardware Benodigdheden
